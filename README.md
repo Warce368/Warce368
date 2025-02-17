@@ -4,7 +4,7 @@
         <img src="https://i.pinimg.com/736x/0b/82/2e/0b822e98b21d29013cf4aac0a64387a7.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Soy+Marcello+%F0%9F%91%8B;Estudiante+de+ing.+de+software;Back-End+Engineer;Solucionador+de+problemas;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Soy+Marcello+%F0%9F%91%8B;Estudiante+de+ing.+de+software;Solucionador+de+problemas;Freelancer" alt="Headline" />
     </div>
 
 
@@ -19,12 +19,11 @@
 
 ## Sobre mi :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 Actualmente soy estudiante de la carrera de ingenieria de software en la [Universidad Tecnológica del Perú](https://www.utp.edu.pe/)
+- 🎓 Disfruto aprendiendo cosas nuevas y enfrentando retos
+- 🎓 Me interesa desarrollar soluciones que impacten positivamente
+- 🏡'Vivo en Lima **Perú**
+- ⚡ **Me gusta jugar videojuegos** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
@@ -33,7 +32,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/marcellorioss/?next=%2F&hl=en) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/marcello.rios.35/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/marcello-rios-levano-b46384259/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:958821650) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](12345marce12345@gmail.com)
 
 <br>
 
