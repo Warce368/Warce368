@@ -38,9 +38,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ My Skills
+## 🛠️ Mis Skills
 
-### Programming languages:
+### lenguajes de programación:
 
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
