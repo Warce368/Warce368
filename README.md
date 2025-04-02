@@ -4,7 +4,7 @@
         <img src="https://raw.githubusercontent.com/Warce368/Warce368/refs/heads/main/normal.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Soy+Marcello+%F0%9F%91%8B;Estudiante+de+ing.+de+software;Solucionador+de+problemas;Freelancer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+Soy+Marcello+%F0%9F%91%8B;Estudiante+de+ing.+de+software;Solucionador+de+problemas" alt="Headline" />
     </div>
 
 
