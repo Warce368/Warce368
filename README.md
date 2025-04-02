@@ -60,7 +60,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 
 ### Servicios & Frameworks: 
-&emsp;
+![Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
 [!(https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
