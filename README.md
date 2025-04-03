@@ -61,7 +61,6 @@
 
 ### Servicios & Frameworks: 
 
-
 ![](https://astro.badg.es/v2/built-with-astro/tiny.svg)
 
 
@@ -70,9 +69,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 
 
 
